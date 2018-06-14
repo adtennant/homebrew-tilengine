@@ -1,7 +1,7 @@
 class Tilengine < Formula
   desc "Tilengine is a free, cross-platform 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its unique scanline-based rendering system makes raster effects a core feature, a technique used by many games running on real 2D graphics chips."
   homepage "http://www.tilengine.org/"
-  url "https://github.com/adtennant/tilengine.git", :revision => "740ce9b1ed765c8800c5ae41571b78d8052e92c3"
+  url "https://github.com/adtennant/tilengine.git", :revision => "185047a69e0dea84a037bad19936a4245eabffff"
   version "1.15"
 
   depends_on "libpng"
